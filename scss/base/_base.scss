@@ -1,0 +1,20 @@
+// the universal selector (*)
+// ul elements
+// p elements
+// a elements
+
+* {
+  max-width: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  font-decoration: none;
+}

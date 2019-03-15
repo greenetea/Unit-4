@@ -1,0 +1,21 @@
+// Image:
+// .img--logo
+// .img--frame
+// .img--avatar
+
+
+.img--frame {
+    width: 90%;
+    border: solid thin $color-text-tertiary;
+    padding: 10px;
+}
+
+.img--avatar {
+    width: 50%;
+    margin: auto;
+
+}
+
+.img--logo {
+   padding-right: 20px;
+}
